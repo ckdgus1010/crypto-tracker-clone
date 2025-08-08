@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "https://ckdgus1010.github.io/crypto-tracker-clone"
+  base: "/crypto-tracker-clone/"
 })
